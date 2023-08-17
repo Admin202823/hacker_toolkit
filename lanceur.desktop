@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=lanceur
+Comment=
+Exec=python3 hacker_toolkit.py
+Icon=python
+Path=
+Terminal=true
+StartupNotify=false
