@@ -1,8 +1,8 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=lanceur
-Comment=
+Name=launcher
+Comment=Hacker ToolKit
 Exec=python3 hacker_toolkit.py
 Icon=python
 Path=
